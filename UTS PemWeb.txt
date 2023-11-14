@@ -1,0 +1,8 @@
+1. Framework adalah kerangka yang mempermudah kita untuk membangun aplikasi
+
+2. 1. Pencatatan dan Pemantauan Stunting
+   2. - Riyadhi Ahmad Fachrudiansyah (22416255201222) (UML)
+      - Brian Arbi Budiputra (22416255201097) (coding)
+      - Fadhlan Dhiya Ulhaq (22416255201153) (database)
+   3. tidak ada kendala setelah kami wawacncara dengan client, dan hipotesa solusi yang kami usung adalah
+      untuk membuat pendataan dan pemantauan dari kasus stunting secara digital
